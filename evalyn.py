@@ -1,0 +1,5 @@
+# evalyn.py
+OWNER_LINK = "https://t.me/VLShop2"
+CHANNEL_LINK = "https://t.me/VynaaMD"
+OWNER_ID = 1618920755
+BOT_TOKEN = "6253538975:AAEuR5X2_Bm44NcEwYaPbDJ__oWPNGV7btU"
